@@ -5,7 +5,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueClaire",
       "Entries":{
-        "spring_2": "{{i18n:Claire.CharacterDialog.001}}"
+        "spring_2": "{{i18n:Claire.CharacterDialog.001}}",
+        "Indoor_Night_0": "{{i18n:Claire.MarriageDialogue.002}}"
       }
     }
   ]
