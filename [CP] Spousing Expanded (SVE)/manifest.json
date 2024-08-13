@@ -1,0 +1,10 @@
+{
+   "Name": "Spousing Expanded (SVE)",
+   "Author": "Marlowski",
+   "Description": "Adds new lines of dialog to spouses introduced in Stardew Valley Expanded (SVE)",
+   "Version": "0.0.1",
+   "UniqueID": "marlowski.spousingExpanded",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "LogName": "Claire",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+      "Entries":{
+        "spring_2": "{{i18n:Claire.CharacterDialog.001}}"
+      }
+    }
+  ]
+}
