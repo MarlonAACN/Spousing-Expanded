@@ -6,5 +6,19 @@
    "UniqueID": "marlowski.spousingExpanded",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
+   },
+  "Dependencies": [
+    {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "FlashShifter.SVECode",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+      "IsRequired": true
     }
+  ]
 }
